@@ -1,1 +1,5 @@
 body, html{display:none!important;}
+@media (min-width: 1200px)
+.container {
+    width: 100% !important;
+}
